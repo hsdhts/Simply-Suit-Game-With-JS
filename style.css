@@ -1,0 +1,21 @@
+h1{
+    color: yellow;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 250px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 700;
+}
+span{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 700;
+}
+
+.container{
+    background: red;
+    border-radius: 8px;
+    margin-left: 400px;
+    margin-right: 400px;
+}
